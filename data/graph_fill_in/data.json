@@ -1,0 +1,2202 @@
+[
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_0"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_1"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_2"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_3"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_4"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_5"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_6"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_7"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_8"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_9"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_10"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_11"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_12"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_13"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_14"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_15"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_16"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_17"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_18"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_19"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_20"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_21"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_22"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_23"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_24"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_25"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_26"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_27"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_28"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_29"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_30"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_31"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_32"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_33"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_34"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_35"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_36"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_37"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_38"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_39"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_40"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_41"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_42"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_43"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_44"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_45"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_46"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_47"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_48"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_49"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_50"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_51"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_52"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_53"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_54"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_55"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_56"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_57"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_58"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_59"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_60"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_61"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_62"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_63"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_64"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_65"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_66"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_67"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_68"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_69"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_70"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_71"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_72"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_73"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_74"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_75"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_76"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_77"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_78"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_79"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_80"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_81"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_82"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_83"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_84"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_85"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_86"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_87"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_88"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_89"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_90"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_91"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_92"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_93"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_94"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_95"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_96"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_97"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_98"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_99"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_100"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_101"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_102"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_103"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_104"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_105"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_106"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_107"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_108"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_109"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_110"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_111"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_112"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_113"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_114"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_115"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_116"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_117"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_118"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_119"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_120"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_121"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_122"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_123"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_124"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_125"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_126"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_127"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_128"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_129"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_130"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_131"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_132"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_133"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_134"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_135"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_136"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_137"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_138"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_139"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_140"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_141"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_142"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_143"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_144"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_145"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_146"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_147"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_148"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_149"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_150"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) purple",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_151"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_152"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_153"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_154"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_155"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_156"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_157"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_158"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_159"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_160"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_161"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_162"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_163"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) red",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_164"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_165"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_166"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) blue",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_167"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_168"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "A",
+        "id": "problem_169"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_170"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_171"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_172"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_173"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "B",
+        "id": "problem_174"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "C",
+        "id": "problem_175"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_176"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) blue",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_177"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "C",
+        "id": "problem_178"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_179"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "A",
+        "id": "problem_180"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "C",
+        "id": "problem_181"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) red",
+            "C) green",
+            "D) blue"
+        ],
+        "answer": "B",
+        "id": "problem_182"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) green",
+            "C) yellow",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_183"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "A",
+        "id": "problem_184"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "A",
+        "id": "problem_185"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_186"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_187"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) yellow",
+            "C) blue",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_188"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_189"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) green",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_190"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) yellow",
+            "C) green",
+            "D) red"
+        ],
+        "answer": "D",
+        "id": "problem_191"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) yellow",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_192"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) blue",
+            "D) red"
+        ],
+        "answer": "B",
+        "id": "problem_193"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) red",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "C",
+        "id": "problem_194"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) green",
+            "C) yellow",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_195"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) blue",
+            "B) red",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "B",
+        "id": "problem_196"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+        ],
+        "answer": "D",
+        "id": "problem_197"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) red",
+            "B) blue",
+            "C) yellow",
+            "D) green"
+        ],
+        "answer": "D",
+        "id": "problem_198"
+    },
+    {
+        "question": "You have a picture of a graph with multiple nodes connected by edges. Each node has a specific color, except for one. Given that no two connected nodes can have the same color, can you determine what color the uncolored (grey) node should be? Give me a letter of a valid answer.",
+        "options": [
+            "A) yellow",
+            "B) green",
+            "C) red",
+            "D) blue"
+        ],
+        "answer": "D",
+        "id": "problem_199"
+    }
+]

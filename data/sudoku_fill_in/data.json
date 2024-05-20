@@ -1,0 +1,2202 @@
+[
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 1",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_0"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 9",
+            "C) 7",
+            "D) 3"
+        ],
+        "answer": "A",
+        "id": "problem_1"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 3",
+            "C) 7",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_2"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 5",
+            "C) 4",
+            "D) 9"
+        ],
+        "answer": "B",
+        "id": "problem_3"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 2",
+            "C) 4",
+            "D) 9"
+        ],
+        "answer": "B",
+        "id": "problem_4"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 9",
+            "C) 3",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_5"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 4",
+            "C) 1",
+            "D) 7"
+        ],
+        "answer": "C",
+        "id": "problem_6"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 2",
+            "C) 9",
+            "D) 8"
+        ],
+        "answer": "B",
+        "id": "problem_7"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 6",
+            "C) 1",
+            "D) 5"
+        ],
+        "answer": "D",
+        "id": "problem_8"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 7",
+            "C) 4",
+            "D) 2"
+        ],
+        "answer": "D",
+        "id": "problem_9"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 6",
+            "C) 9",
+            "D) 2"
+        ],
+        "answer": "A",
+        "id": "problem_10"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 5",
+            "C) 1",
+            "D) 4"
+        ],
+        "answer": "C",
+        "id": "problem_11"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 8",
+            "C) 5",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_12"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 8",
+            "C) 9",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_13"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 5",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_14"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 4",
+            "C) 5",
+            "D) 2"
+        ],
+        "answer": "D",
+        "id": "problem_15"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 6",
+            "C) 9",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_16"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 2",
+            "C) 1",
+            "D) 7"
+        ],
+        "answer": "C",
+        "id": "problem_17"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 7",
+            "C) 3",
+            "D) 6"
+        ],
+        "answer": "C",
+        "id": "problem_18"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 3",
+            "C) 1",
+            "D) 7"
+        ],
+        "answer": "B",
+        "id": "problem_19"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 7",
+            "C) 9",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_20"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 5",
+            "C) 2",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_21"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 5",
+            "C) 4",
+            "D) 7"
+        ],
+        "answer": "B",
+        "id": "problem_22"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 7",
+            "C) 5",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_23"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 4",
+            "C) 2",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_24"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 4",
+            "C) 1",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_25"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 1",
+            "C) 5",
+            "D) 7"
+        ],
+        "answer": "A",
+        "id": "problem_26"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 1",
+            "C) 8",
+            "D) 5"
+        ],
+        "answer": "D",
+        "id": "problem_27"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 7"
+        ],
+        "answer": "B",
+        "id": "problem_28"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 2",
+            "C) 8",
+            "D) 4"
+        ],
+        "answer": "C",
+        "id": "problem_29"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 8",
+            "C) 3",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_30"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 9",
+            "C) 6",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_31"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 3",
+            "C) 7",
+            "D) 8"
+        ],
+        "answer": "B",
+        "id": "problem_32"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 4",
+            "C) 2",
+            "D) 5"
+        ],
+        "answer": "C",
+        "id": "problem_33"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 7",
+            "C) 1",
+            "D) 6"
+        ],
+        "answer": "A",
+        "id": "problem_34"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_35"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 4",
+            "C) 3",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_36"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 6",
+            "C) 5",
+            "D) 9"
+        ],
+        "answer": "A",
+        "id": "problem_37"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 6",
+            "C) 8",
+            "D) 1"
+        ],
+        "answer": "B",
+        "id": "problem_38"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 8",
+            "C) 5",
+            "D) 7"
+        ],
+        "answer": "A",
+        "id": "problem_39"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 6",
+            "C) 4",
+            "D) 9"
+        ],
+        "answer": "B",
+        "id": "problem_40"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 2",
+            "C) 7",
+            "D) 6"
+        ],
+        "answer": "B",
+        "id": "problem_41"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 7",
+            "C) 9",
+            "D) 8"
+        ],
+        "answer": "C",
+        "id": "problem_42"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 1",
+            "C) 9",
+            "D) 6"
+        ],
+        "answer": "C",
+        "id": "problem_43"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 9",
+            "C) 8",
+            "D) 5"
+        ],
+        "answer": "B",
+        "id": "problem_44"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 4",
+            "C) 3",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_45"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 6",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "B",
+        "id": "problem_46"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 9",
+            "C) 5",
+            "D) 3"
+        ],
+        "answer": "D",
+        "id": "problem_47"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 9",
+            "C) 7",
+            "D) 6"
+        ],
+        "answer": "B",
+        "id": "problem_48"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 6",
+            "C) 4",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_49"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 8",
+            "C) 2",
+            "D) 3"
+        ],
+        "answer": "A",
+        "id": "problem_50"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 7",
+            "D) 3"
+        ],
+        "answer": "A",
+        "id": "problem_51"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 4",
+            "C) 5",
+            "D) 2"
+        ],
+        "answer": "D",
+        "id": "problem_52"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 7",
+            "C) 6",
+            "D) 8"
+        ],
+        "answer": "D",
+        "id": "problem_53"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 5",
+            "C) 4",
+            "D) 1"
+        ],
+        "answer": "D",
+        "id": "problem_54"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 3",
+            "C) 4",
+            "D) 2"
+        ],
+        "answer": "A",
+        "id": "problem_55"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 1",
+            "D) 3"
+        ],
+        "answer": "B",
+        "id": "problem_56"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 1",
+            "C) 8",
+            "D) 9"
+        ],
+        "answer": "A",
+        "id": "problem_57"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 7",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "A",
+        "id": "problem_58"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 6",
+            "C) 1",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_59"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 6",
+            "C) 8",
+            "D) 1"
+        ],
+        "answer": "D",
+        "id": "problem_60"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 2",
+            "C) 9",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_61"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 1",
+            "C) 3",
+            "D) 2"
+        ],
+        "answer": "A",
+        "id": "problem_62"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 9",
+            "C) 5",
+            "D) 3"
+        ],
+        "answer": "B",
+        "id": "problem_63"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 6",
+            "C) 8",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_64"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 4",
+            "C) 2",
+            "D) 9"
+        ],
+        "answer": "C",
+        "id": "problem_65"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 9",
+            "C) 4",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_66"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 7",
+            "C) 9",
+            "D) 1"
+        ],
+        "answer": "B",
+        "id": "problem_67"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 6",
+            "C) 2",
+            "D) 5"
+        ],
+        "answer": "D",
+        "id": "problem_68"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 5",
+            "C) 4",
+            "D) 2"
+        ],
+        "answer": "A",
+        "id": "problem_69"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 2",
+            "C) 1",
+            "D) 5"
+        ],
+        "answer": "A",
+        "id": "problem_70"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 1",
+            "C) 5",
+            "D) 7"
+        ],
+        "answer": "A",
+        "id": "problem_71"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 4",
+            "C) 6",
+            "D) 9"
+        ],
+        "answer": "A",
+        "id": "problem_72"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 6",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_73"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 3",
+            "C) 1",
+            "D) 6"
+        ],
+        "answer": "A",
+        "id": "problem_74"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 9"
+        ],
+        "answer": "C",
+        "id": "problem_75"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 8",
+            "C) 4",
+            "D) 2"
+        ],
+        "answer": "D",
+        "id": "problem_76"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 4",
+            "C) 5",
+            "D) 9"
+        ],
+        "answer": "D",
+        "id": "problem_77"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 8",
+            "C) 1",
+            "D) 5"
+        ],
+        "answer": "C",
+        "id": "problem_78"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 7",
+            "C) 3",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_79"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 1",
+            "C) 7",
+            "D) 2"
+        ],
+        "answer": "D",
+        "id": "problem_80"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 9",
+            "C) 6",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_81"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 5",
+            "C) 3",
+            "D) 2"
+        ],
+        "answer": "C",
+        "id": "problem_82"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 5",
+            "C) 2",
+            "D) 3"
+        ],
+        "answer": "D",
+        "id": "problem_83"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 9",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_84"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 8",
+            "C) 5",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_85"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 7",
+            "D) 8"
+        ],
+        "answer": "D",
+        "id": "problem_86"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 1",
+            "C) 4",
+            "D) 9"
+        ],
+        "answer": "C",
+        "id": "problem_87"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 6",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_88"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 4",
+            "C) 6",
+            "D) 3"
+        ],
+        "answer": "B",
+        "id": "problem_89"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 6",
+            "C) 3",
+            "D) 9"
+        ],
+        "answer": "A",
+        "id": "problem_90"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 6",
+            "C) 9",
+            "D) 1"
+        ],
+        "answer": "B",
+        "id": "problem_91"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 1",
+            "D) 3"
+        ],
+        "answer": "D",
+        "id": "problem_92"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 2",
+            "C) 9",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_93"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 5",
+            "C) 6",
+            "D) 2"
+        ],
+        "answer": "A",
+        "id": "problem_94"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 2",
+            "C) 9",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_95"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 1",
+            "C) 8",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_96"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 7",
+            "C) 6",
+            "D) 4"
+        ],
+        "answer": "B",
+        "id": "problem_97"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 6",
+            "C) 2",
+            "D) 4"
+        ],
+        "answer": "A",
+        "id": "problem_98"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 8",
+            "C) 3",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_99"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 5",
+            "C) 1",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_100"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 8",
+            "C) 6",
+            "D) 9"
+        ],
+        "answer": "B",
+        "id": "problem_101"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 5",
+            "C) 3",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_102"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 4",
+            "C) 1",
+            "D) 2"
+        ],
+        "answer": "D",
+        "id": "problem_103"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 8",
+            "C) 5",
+            "D) 4"
+        ],
+        "answer": "B",
+        "id": "problem_104"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 4",
+            "C) 3",
+            "D) 7"
+        ],
+        "answer": "B",
+        "id": "problem_105"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 4",
+            "C) 8",
+            "D) 5"
+        ],
+        "answer": "C",
+        "id": "problem_106"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 5",
+            "C) 8",
+            "D) 7"
+        ],
+        "answer": "A",
+        "id": "problem_107"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 6",
+            "C) 9",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_108"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 9",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "A",
+        "id": "problem_109"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 7",
+            "C) 9",
+            "D) 5"
+        ],
+        "answer": "D",
+        "id": "problem_110"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 1",
+            "C) 8",
+            "D) 5"
+        ],
+        "answer": "C",
+        "id": "problem_111"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 9",
+            "C) 2",
+            "D) 8"
+        ],
+        "answer": "D",
+        "id": "problem_112"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 1",
+            "C) 4",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_113"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 8",
+            "C) 2",
+            "D) 5"
+        ],
+        "answer": "B",
+        "id": "problem_114"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 7",
+            "C) 4",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_115"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 5",
+            "C) 6",
+            "D) 8"
+        ],
+        "answer": "C",
+        "id": "problem_116"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 3",
+            "D) 5"
+        ],
+        "answer": "D",
+        "id": "problem_117"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 6",
+            "C) 1",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_118"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 6",
+            "C) 3",
+            "D) 1"
+        ],
+        "answer": "D",
+        "id": "problem_119"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 8",
+            "D) 5"
+        ],
+        "answer": "B",
+        "id": "problem_120"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 6",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "A",
+        "id": "problem_121"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 6",
+            "C) 1",
+            "D) 7"
+        ],
+        "answer": "A",
+        "id": "problem_122"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 4",
+            "C) 3",
+            "D) 6"
+        ],
+        "answer": "C",
+        "id": "problem_123"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 1",
+            "C) 2",
+            "D) 3"
+        ],
+        "answer": "D",
+        "id": "problem_124"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 7",
+            "D) 6"
+        ],
+        "answer": "C",
+        "id": "problem_125"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 2",
+            "C) 1",
+            "D) 8"
+        ],
+        "answer": "D",
+        "id": "problem_126"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 8",
+            "C) 2",
+            "D) 5"
+        ],
+        "answer": "B",
+        "id": "problem_127"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 3",
+            "C) 4",
+            "D) 8"
+        ],
+        "answer": "C",
+        "id": "problem_128"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 6",
+            "C) 1",
+            "D) 4"
+        ],
+        "answer": "B",
+        "id": "problem_129"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 6",
+            "C) 9",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_130"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 9",
+            "C) 1",
+            "D) 2"
+        ],
+        "answer": "C",
+        "id": "problem_131"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 6",
+            "C) 9",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_132"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 3",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_133"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 1",
+            "C) 9",
+            "D) 2"
+        ],
+        "answer": "C",
+        "id": "problem_134"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 2",
+            "C) 1",
+            "D) 9"
+        ],
+        "answer": "A",
+        "id": "problem_135"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 7",
+            "C) 6",
+            "D) 3"
+        ],
+        "answer": "B",
+        "id": "problem_136"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 1",
+            "C) 8",
+            "D) 6"
+        ],
+        "answer": "D",
+        "id": "problem_137"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 8",
+            "C) 4",
+            "D) 9"
+        ],
+        "answer": "C",
+        "id": "problem_138"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 1",
+            "C) 7",
+            "D) 9"
+        ],
+        "answer": "C",
+        "id": "problem_139"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 6",
+            "C) 8",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_140"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 9",
+            "C) 1",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_141"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 8",
+            "C) 9",
+            "D) 7"
+        ],
+        "answer": "B",
+        "id": "problem_142"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 7",
+            "C) 3",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_143"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 4",
+            "C) 8",
+            "D) 2"
+        ],
+        "answer": "A",
+        "id": "problem_144"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 7",
+            "C) 6",
+            "D) 2"
+        ],
+        "answer": "C",
+        "id": "problem_145"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 9",
+            "C) 8",
+            "D) 4"
+        ],
+        "answer": "A",
+        "id": "problem_146"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 2",
+            "C) 4",
+            "D) 5"
+        ],
+        "answer": "A",
+        "id": "problem_147"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 3",
+            "C) 7",
+            "D) 1"
+        ],
+        "answer": "C",
+        "id": "problem_148"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 1",
+            "C) 9",
+            "D) 2"
+        ],
+        "answer": "A",
+        "id": "problem_149"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 9",
+            "C) 1",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_150"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 7",
+            "C) 8",
+            "D) 3"
+        ],
+        "answer": "D",
+        "id": "problem_151"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 5",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "A",
+        "id": "problem_152"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 1",
+            "C) 8",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_153"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 7",
+            "C) 1",
+            "D) 4"
+        ],
+        "answer": "A",
+        "id": "problem_154"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 2",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_155"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 1",
+            "C) 4",
+            "D) 8"
+        ],
+        "answer": "D",
+        "id": "problem_156"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 8",
+            "C) 2",
+            "D) 3"
+        ],
+        "answer": "B",
+        "id": "problem_157"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 9",
+            "C) 6",
+            "D) 1"
+        ],
+        "answer": "D",
+        "id": "problem_158"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 3",
+            "C) 4",
+            "D) 7"
+        ],
+        "answer": "A",
+        "id": "problem_159"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 6",
+            "C) 4",
+            "D) 1"
+        ],
+        "answer": "B",
+        "id": "problem_160"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 9",
+            "C) 1",
+            "D) 6"
+        ],
+        "answer": "C",
+        "id": "problem_161"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 7",
+            "C) 8",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_162"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 4",
+            "C) 8",
+            "D) 6"
+        ],
+        "answer": "D",
+        "id": "problem_163"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 3",
+            "C) 8",
+            "D) 5"
+        ],
+        "answer": "B",
+        "id": "problem_164"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 1",
+            "C) 8",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_165"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 6",
+            "C) 2",
+            "D) 4"
+        ],
+        "answer": "B",
+        "id": "problem_166"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 7",
+            "C) 2",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_167"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 5",
+            "C) 4",
+            "D) 7"
+        ],
+        "answer": "C",
+        "id": "problem_168"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 7",
+            "C) 9",
+            "D) 3"
+        ],
+        "answer": "B",
+        "id": "problem_169"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 9",
+            "C) 4",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_170"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 1",
+            "C) 8",
+            "D) 6"
+        ],
+        "answer": "D",
+        "id": "problem_171"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 6",
+            "C) 9",
+            "D) 8"
+        ],
+        "answer": "D",
+        "id": "problem_172"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 3",
+            "C) 2",
+            "D) 9"
+        ],
+        "answer": "C",
+        "id": "problem_173"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 2",
+            "C) 5",
+            "D) 9"
+        ],
+        "answer": "B",
+        "id": "problem_174"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 1",
+            "C) 2",
+            "D) 4"
+        ],
+        "answer": "B",
+        "id": "problem_175"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 8",
+            "C) 2",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_176"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 6",
+            "C) 3",
+            "D) 1"
+        ],
+        "answer": "D",
+        "id": "problem_177"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 6",
+            "C) 2",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_178"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 8",
+            "C) 6",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_179"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 6",
+            "C) 9",
+            "D) 5"
+        ],
+        "answer": "D",
+        "id": "problem_180"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 5",
+            "B) 1",
+            "C) 8",
+            "D) 7"
+        ],
+        "answer": "D",
+        "id": "problem_181"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 7"
+        ],
+        "answer": "B",
+        "id": "problem_182"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 1",
+            "C) 6",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_183"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 1",
+            "C) 7",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_184"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 7",
+            "C) 8",
+            "D) 4"
+        ],
+        "answer": "D",
+        "id": "problem_185"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 2",
+            "C) 5",
+            "D) 3"
+        ],
+        "answer": "A",
+        "id": "problem_186"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 2",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_187"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 1",
+            "C) 5",
+            "D) 9"
+        ],
+        "answer": "D",
+        "id": "problem_188"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 1",
+            "B) 4",
+            "C) 7",
+            "D) 2"
+        ],
+        "answer": "C",
+        "id": "problem_189"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 8",
+            "C) 5",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_190"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 8",
+            "B) 4",
+            "C) 6",
+            "D) 1"
+        ],
+        "answer": "A",
+        "id": "problem_191"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 2",
+            "C) 9",
+            "D) 5"
+        ],
+        "answer": "D",
+        "id": "problem_192"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 1",
+            "C) 9",
+            "D) 7"
+        ],
+        "answer": "B",
+        "id": "problem_193"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 8",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "C",
+        "id": "problem_194"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 9",
+            "B) 6",
+            "C) 3",
+            "D) 2"
+        ],
+        "answer": "B",
+        "id": "problem_195"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 6",
+            "B) 4",
+            "C) 8",
+            "D) 5"
+        ],
+        "answer": "A",
+        "id": "problem_196"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 3",
+            "B) 2",
+            "C) 7",
+            "D) 8"
+        ],
+        "answer": "A",
+        "id": "problem_197"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 7",
+            "B) 4",
+            "C) 1",
+            "D) 6"
+        ],
+        "answer": "A",
+        "id": "problem_198"
+    },
+    {
+        "question": "Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing? Give me a letter of a valid answer.",
+        "options": [
+            "A) 4",
+            "B) 9",
+            "C) 5",
+            "D) 8"
+        ],
+        "answer": "C",
+        "id": "problem_199"
+    }
+]
