@@ -10,3 +10,11 @@ This repository contains code for generating data for training and evaluating Mu
 ```bash
 poetry install
 ```
+
+## Generating data
+
+To generate data for training and evaluation, run the following command:
+
+```bash
+poetry run python main.py
+```
