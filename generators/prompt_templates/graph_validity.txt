@@ -1,0 +1,27 @@
+Task Description: You are given a problem description and image and a question. The task is to:
+1) Understand the given question by reading it carefully and looking at the accompanying image
+2) Parse the problem into Answer Set Programming (ASP) language compatible with a Clingo solver. The program must be included within ###ASP_START### and ###ASP_END### block.
+3) Objects and rules defined in the example should be sufficient for solving the problem. You should modify or add facts that define state provided in the image.
+
+Here is an example below that is based on the first image:
+------
+Problem:
+You have a picture of a graph with multiple nodes connected by edges. Currently all nodes are grey color. Each node has to have a specific color assigned to each. Given that no two connected nodes can have the same color, can you determine if with given set of colors you can color each node so it would not break the ruleYou have a picture of a graph with multiple nodes connected by edges. Currently, all nodes are grey. Each node needs to be assigned a specific color. Given that no two connected nodes can share the same color, can you determine whether it is possible to color the graph according to this rule with the given set of colors?
+Available colors:
+[[COLORS]]
+Options:
+A) Yes
+B) No
+
+###ASP_START###
+
+[[ASP]]
+
+###ASP_END###
+------
+Problem:
+[[PROBLEM]]
+Options:
+[[QUESTION]]
+
+###ASP_START###

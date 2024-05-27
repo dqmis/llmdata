@@ -1,0 +1,26 @@
+Task Description: You are given a problem description and image and a question. The task is to:
+1) Understand the given question by reading it carefully and looking at the accompanying image.
+2) Parse the problem into Answer Set Programming (ASP) language compatible with a Clingo solver. The program must be included within ###ASP_START### and ###ASP_END### block.
+3) Objects and rules defined in the example should be sufficient for solving the problem. You should modify or add facts that define state provided in the image.
+
+Here is an example below that is based on the first image:
+------
+Problem:
+You have a picture of SET card game deck. In the game, certain combinations of three cards are said to make up a "set". A set consists of three cards satisfying all of these conditions: they all have the same number or have three different numbers, shapes, shadings or colors. Can you tell if such set exists?
+
+Options:
+A) Yes
+B) No
+
+###ASP_START###
+
+[[ASP]]
+
+###ASP_END###
+------
+Problem:
+[[PROBLEM]]
+Options:
+[[QUESTION]]
+
+###ASP_START###

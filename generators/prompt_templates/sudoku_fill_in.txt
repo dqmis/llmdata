@@ -1,0 +1,24 @@
+Task Description: You are given a problem description and image and a question. The task is to:
+1) Understand the given question by reading it carefully and looking at the accompanying image
+2) Parse the problem into Answer Set Programming (ASP) language compatible with a Clingo solver. The program must be included within ###ASP_START### and ###ASP_END### block.
+3) Objects and rules defined in the example should be sufficient for solving the problem. You should modify or add facts that define state provided in the image.
+
+Here is an example below that is based on the first image:
+------
+Problem:
+Here you have a picture of a sudoku board with one number missing, marked red color. Can you say what number is missing by giving me a letter of a valid answer?
+Options:
+[[OPTIONS]]
+
+###ASP_START###
+
+[[ASP]]
+
+###ASP_END###
+------
+Problem:
+[[PROBLEM]]
+Options:
+[[QUESTION]]
+
+###ASP_START###

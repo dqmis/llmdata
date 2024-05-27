@@ -19,6 +19,16 @@ class ClingoSolver:
                             return atom.arguments[0]
 
     @staticmethod
+    def get_models_count(asp_program: str) -> int:
+        control = clingo.Control()
+        control.add("base", [], asp_program)
+        control.ground([("base", [])])
+        control.configuration.solve.models = 0
+
+        with control.solve(yield_=True) as handle:
+            return len(list(handle))
+
+    @staticmethod
     def solve(asp_program: str, check_satisfied: bool = True) -> bool:
         control = clingo.Control()
         control.add("base", [], asp_program)
